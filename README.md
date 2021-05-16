@@ -66,7 +66,7 @@ Here is the schema and explanation of each variable in the files:
 - The three json files of the original data sets are in the data folder
 
 ## 6. Results <a name="results"></a>
-The introduction and main finding of the project can be found at the post available [here](#).
+The introduction and main finding of the project can be found at the post available [here](https://siruihua.medium.com/are-you-sending-offers-the-right-way-a-starbucks-case-study-ae6b3eea50a3).
 
 ## 7. Acknowledgements <a name="acknowledgements"></a>
 This project is a the capstone project of Udacity [Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025). This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app.
